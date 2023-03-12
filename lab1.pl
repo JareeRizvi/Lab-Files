@@ -1,0 +1,12 @@
+male(jaree).
+male(umair).
+male(amir).
+male(abubakr).
+father(arsalan,saima).
+friend(ali,farhan).
+drive(farha,car).
+likes(ali,icecream).
+woman(saima).
+man(farhan).
+walk(farhan).
+happy(ali).
